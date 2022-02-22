@@ -1,0 +1,128 @@
+-Open a command line and run ( pip install gspread oauth2client requests apscheduler)
+-Get cookies as i showed you then open Cookies.py and paste the data there
+-Open token.json copy client_email and go to the google sheet click share and paste the client_email there
+-Open config.json and change domainsInfoSheet value to the name of the google sheet you have
+-Open domains.json and change the order of the domains or add or delete any domain
+-open a command line in this folder and run (python createSheet.py) or (python3 createSheet.py)
+-Open clock.py and change the interval @sched.scheduled_job('interval', minutes=100) you can change number of minutes try to make it big
+
+RUN PROGRAM
+-To make the program running enter python clock.py or python3 clock.py it will update keywords and other data automatically
+-If you want update the keywords right now enter python UpdateKeywords.py
+-If you want update the Domains right now enter python UpdateDomains.py
+
+Where the command for autologin?
+to get new cookies?
+Yes
+just python login.py
+Thats all?
+youI  can see last update
+iCto ome
+it Coom€ans
+Okay now lets update the data
+This right? UpdateDomains.py
+yes
+
+wait put python before it
+OH okay
+Awesome!
+and also be careful with the sheet format foe example here the first domain will not update because it is on row 2 and the program doesn' change the row two because it's for name the comlumns 
+i see. The header are missing
+yes and also never remove the domain and it should be clean and in the domains.json
+Okay one more thing. This we need in following format 
+Oh i missed the image
+We need to get CURRENT data on the left instead of right
+Previously was on the right
+We need it in following order
+CURRENT 1 WEEK AGO 2 WEEK AGO but this is the current format 
+i can change it too
+Cool
+Lets do this
+idk why sometimes i cant control your screen
+Its teamvewer issue i think
+what's the current format.
+i mean the current format is it two weeks ago then one the current?
+I think its fine
+Hold on Im making it obvious for you
+okay okay iknow now
+Let me fill in the header 
+Hold on
+I cant remember these
+Is this Oeganic traffic? 
+then Organic pages and Referring domains?
+yes but i know what you are going to do next let's consider you filled them 
+Looks good
+Now you can verify that those data are in correct position
+Anyway its on sheet1 now?
+just move the data to sheet 2
+I mean .. 
+Lets run it again 
+Now I will run the scrpit again
+we expect it will fill data on sheet2
+wait 
+
+#####
+run python createSheet.py before running update
+Okay
+I think you missed ) on that last edit
+oh yes thank you
+Hehe
+Lets try it now
+wait dont copy that i just told you heres what to copy
+and also do you remember what i told you wbout create sheet how to edit the code and choose the part you want create sheet?
+I forget lot of stuff ;d
+I got load of work to do so yeah I dont remember much
+But i will figure out later
+it's simple look
+do you remember this part?
+
+####
+
+when to add # before creatKeywords and beforecreateDom..
+Oh .. Godo you tell me
+I know that
+Anyway, we dont need to use this folder again?
+yes delet it
+Oh okay
+
+I gotta mark the important part 
+Okay I will run it now
+Its good to go now?
+yes veryy good
+Haha
+wait you can click on createsheet two times
+ojh its' not linux just run it normally i will tell if there is something will make it easy
+Okay
+oh look the name of the cheet has changed 
+try two clicks now
+thats' because all files are linked i will add a section in config.json where you can put the name of the sheet so you will not face something like that
+I see. Its currenlty on the 2 files. need to renamed in correct name as its case sensitive
+yes try two click now
+Looks good now
+try update
+two click on update domains
+okay looks good
+Cool yeah
+Lets do final check make sure all data are corre
+wait
+If I login now the data pulling could be stopped then?
+i think so try it but i i have to go now 
+Alright all good for now
+I will check and hit you later
+Thanks okayf or h
+elping out !
+
+your welcome do i hhave to send you an offer on fiverr for update?
+Yes . Also with that additional time update on the right column
+okay please send me the folder of login "mohsine login" so i will update it 
+Whats that?
+this folder
+Oh okay
+you can remove ahref creds from ahref creds
+Its fine
+okay send to me in the futre we can setup it to github so you will not send it manually if you want me to keep adding changes
+Sounds a good idea!
+yeah 
+Okay you may go now
+I will yesend you on whatsapp
+yes

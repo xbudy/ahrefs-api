@@ -1,0 +1,7 @@
+{   "DomainStatsWorksheet":"test",
+    "domainsInfoSheet":"NIVITO STATS REAL-TIME1",
+    "KeywordsSheet":"KEYWORDS FOR ALL NIVITO DOMAINS",
+    "MinutesBetweenFetchingDomainsInfo": 0,
+    "MinutesBetweenFetchingEachDomainKeywords":0,
+    "SecondsBetweenUpdatingEachPageKeywords":0
+}

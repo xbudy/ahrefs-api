@@ -1,0 +1,2 @@
+import Keywords
+Keywords.UpdateAll()
